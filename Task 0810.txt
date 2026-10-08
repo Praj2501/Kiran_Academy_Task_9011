@@ -1,0 +1,51 @@
+1. Meta
+2. Google
+3. Anthropic
+4. xAI
+5. Mistral AI
+6. Open AI
+7. AI generated video
+8. google
+9. AI image generation
+10. AI assisted coding 
+11. Large Language Model
+12. AI that generates Text, Images, Video, Audio.
+13. An instruction to the AI model
+14. An instruction of how the system will work or behave
+15. AI that can work with multiple types of data
+16. A confident incorrect answer which AI thinks is correct
+17. 
+18. 
+19. Using a trained model to generate predictions.
+20.
+21.
+22. An AI system that can plan, use tools and perform multi step tasks
+23. Allowing an AI model to invoke API or tools
+24. Model Context Protocol
+25. Authenticates and authorizes AI services
+26. restrictions on how many times API requests can be taken in a particular time limit
+27. AI powered IDE
+28. Making notes from their own source material
+29. search based on meaning rather than only keyword
+30. code generation
+31. Conversion of speech into text
+32. Conversion of text into speech
+33. Text
+34. Model that understands images
+35. Conversion of text into video
+36. 
+37. To perform parallel works
+38. Neural Processing Unit
+39. 
+40.
+41.
+42. Traning a smaller model to imitate large model behaviour
+43. 
+44. Mixture of Experts
+45. A standardized test to compared or test the AI model
+46. 
+47. An attack that tries to manipulate an AI model through malicious instructions.
+48. Personally Identifiable Information
+49. It may create privacy, security risks
+50.  Verify it using trusted and authorised sources.
+
